@@ -84,22 +84,20 @@ Continuous variables such as:
 
 Age,
 BMI,
-HbA1c,
-Blood glucose,
-
-were discretized to improve Bayesian Network probability estimation and interpretability.
+HbA1c, and
+Blood glucose were discretized to improve Bayesian Network probability estimation and interpretability.
 
 🧠 Bayesian Network Construction
 
 The Bayesian Network modeled relationships between:
 
-Age group,
-BMI category,
-Hypertension,
-Heart disease,
-HbA1c category,
-Glucose category,
-Diabetes diagnosis
+Age group.
+BMI category.
+Hypertension.
+Heart disease.
+HbA1c category.
+Glucose category.
+Diabetes diagnosis.
 
 The network structure was visualized using NetworkX and parameterized using Maximum Likelihood Estimation.
 
@@ -152,7 +150,7 @@ Dataset imbalance reduced sensitivity for diabetes detection.
 Discretization simplified some medical information.
 Probabilistic models may reflect bias present in training data.
 False negatives in healthcare predictions can be dangerous.
-Bayesian Networks should support—not replace—clinical judgment.
+Bayesian Networks should support rather than replace clinical judgment.
 
 🚀 Future Improvements
 
