@@ -165,5 +165,7 @@ Comparing Bayesian Networks with other classification models.
 👩‍💻 Author
 
 Juliana Figueroa
+
 M.S. Data Science – Grand Canyon University
+
 GitHub: yuya04-maker
